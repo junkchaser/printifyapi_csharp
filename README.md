@@ -1,2 +1,2 @@
 # printifyapi_csharp
-Printify APIin c#
+This class provides a list of functions that corresponds with the PrintifyAPI endpoints.
